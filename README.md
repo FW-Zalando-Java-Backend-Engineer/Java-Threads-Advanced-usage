@@ -79,8 +79,8 @@ Includes:
 
 ## 📚 References & Further Reading
 
-- [Java ExecutorService – Baeldung](https://www.baeldung.com/java-executor-service)
-- [Java Callable and Future – Baeldung](https://www.baeldung.com/java-callable-future)
+- [Java ExecutorService – Baeldung](https://www.baeldung.com/java-executor-service-tutorial)
+- [Java Callable and Future – Medium](https://medium.com/@vinciabhinav7/concurrency-in-java-executorservice-future-and-callable-f22a7fbeefe2)
 - [Synchronized Keyword – Oracle Docs](https://docs.oracle.com/javase/tutorial/essential/concurrency/locksync.html)
 - [Avoiding Deadlocks – GeeksforGeeks](https://www.geeksforgeeks.org/deadlock-in-java-multithreading/)
 - [Java Threads – Official JavaDoc](https://docs.oracle.com/javase/8/docs/api/java/lang/Thread.html)
