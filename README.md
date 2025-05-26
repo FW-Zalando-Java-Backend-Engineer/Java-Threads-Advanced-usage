@@ -51,7 +51,7 @@ Includes:
 ## 🎥 Zoom Recording
 
 📽️ **Zoom Recording – Day 41 Session**  
-👉 [INSERT ZOOM RECORDING LINK HERE]
+👉 [WATCH ZOOM RECORDING](https://us06web.zoom.us/rec/share/x7-mpLgENwvJUNlbsUt3kWVJaUHoreyvu5c6dY1v19T2-aLBMHztwy1ALraItpXy.msxsRNBmd2mmD4x_?startTime=1747384986000)
 
 ---
 
